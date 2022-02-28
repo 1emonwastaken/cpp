@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int t = 99999999;
+    int t;
     cin >> t;
   cout << "\n\n Find the perfect numbers between 1 and " << t << ":\n";
   cout << "------------------------------------------------\n";
