@@ -1,3 +1,4 @@
+//CODE TO FIND IF A GIVEN INTEGER IS PRIME OR NOT.
 #include <iostream>
 using namespace std;
 int main()
