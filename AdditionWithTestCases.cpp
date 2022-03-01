@@ -1,3 +1,4 @@
+//CODE TO ADD TWO NUMBERS, FIRST INPUT TAKES NUMBER OF TEST CASES.
 #include <iostream>
 using namespace std;
 int addition()
